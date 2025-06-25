@@ -110,7 +110,7 @@ h1, h2, h3, h4 {
 
 /* Hero Section */
 .hero-section {
-    background: url('../images/all_products_3.png') no-repeat center center/cover; /* Placeholder for hero image */
+    background: url('../images/all_products_3.jpg') no-repeat center center/cover; /* Placeholder for hero image */
     color: var(--white);
     text-align: center;
     padding: 8rem 0;
@@ -483,7 +483,7 @@ h2::after {
 
 /* Page Hero Section (for About Us, Products, etc.) */
 .page-hero {
-    background: url('../images/all_products_2.png') no-repeat center center/cover; /* Placeholder for specific page hero image */
+    background: url('../images/all_products_2.jpg') no-repeat center center/cover; /* Placeholder for specific page hero image */
     color: var(--white);
     text-align: center;
     padding: 6rem 0;
@@ -557,7 +557,7 @@ h2::after {
 /* Specific About Us Sections */
 .about-hero {
     /* Specific background image for about page */
-    background-image: url('../images/all_products_2.png'); /* You'll need to add this image */
+    background-image: url('../images/all_products_2.jpg'); /* You'll need to add this image */
 }
 
 .vmv-grid {
@@ -607,7 +607,7 @@ h2::after {
 
 /* Products & Services Hero */
 .products-services-hero {
-    background-image: url('../images/all_products_1.png'); /* You'll need to add this image */
+    background-image: url('../images/all_products_1.jpg'); /* You'll need to add this image */
 }
 
 /* Products Grid */
@@ -839,7 +839,7 @@ h2::after {
 
 /* Team Hero Section */
 .team-hero {
-    background-image: url('../images/team1.png'); /* You'll need to add this image */
+    background-image: url('../images/team1.jpg'); /* You'll need to add this image */
 }
 
 /* Team Grid and Member Cards */
@@ -933,7 +933,7 @@ h2::after {
 
 /* Contact Us Hero */
 .contact-hero {
-    background-image: url('../images/contactus3.png'); /* You'll need to add this image */
+    background-image: url('../images/contactus3.jpg'); /* You'll need to add this image */
 }
 
 .contact-hero p {
